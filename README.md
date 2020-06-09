@@ -11,7 +11,7 @@
 
 **Video**: [https://www.youtube.com/watch?v=IirUlJS49Yw](https://www.youtube.com/watch?v=IirUlJS49Yw)
 
-**Instructions to run the code**: TODO
+**Instructions to run the code**: 
 Simply run dataset1.py in the /Code/ folder
 
 **BibTeX**:
